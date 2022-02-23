@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rocio-1
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning programming in #ArgentinaPrograma
 
 
